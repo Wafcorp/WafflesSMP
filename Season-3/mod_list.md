@@ -2,6 +2,6 @@
 
 | Mod      | Added |
 |:---------|:-----:|
-| React.js |  [ ]  |
-| Next.js  |  [x]  |
-| Vue.js   |  [ ]  |
+| React.js | - [ ] |
+| Next.js  | - [x] |
+| Vue.js   | - [ ] |
