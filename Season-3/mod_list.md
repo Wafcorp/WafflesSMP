@@ -1,7 +1,8 @@
 # Mod list
 
-| Mod      |       Added        | Status |
-|:---------|:------------------:|:------:|
-| React.js |        :x:         | *old*  |
-| Next.js  | :heavy_check_mark: | *old*  |
-| Vue.js   |        :x:         | *old*  |
+| Mod                                                             |       Added        |   Status   |
+|:----------------------------------------------------------------|:------------------:|:----------:|
+| [Alternate Current](https://modrinth.com/mod/alternate-current) |        :x:         | *required* |
+| Next.js                                                         | :heavy_check_mark: |   *old*    |
+| Vue.js                                                          |        :x:         |   *old*    |
+
