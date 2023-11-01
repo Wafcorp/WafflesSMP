@@ -2,6 +2,6 @@
 
 | Mod      |       Added        |
 |:---------|:------------------:|
-| React.js |       - [ ]        |
+| React.js |        :x:         |
 | Next.js  | :heavy_check_mark: |
-| Vue.js   |       - [ ]        |
+| Vue.js   |        :x:         |
