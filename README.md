@@ -1,2 +1,2 @@
-# WafflesSMP
-All Information ralted to the WafflesSMP
+# Waffles SMP
+All information related to the Waffles SMP
