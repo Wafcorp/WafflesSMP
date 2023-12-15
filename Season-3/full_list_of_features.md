@@ -40,6 +40,10 @@ This is the full list of features introduced in season 3 of the Waffles SMP.  If
 - TabTPS
 - TPTrace
 - VillagerInfo
+- Voicechat
+- Voicechat_interaction
+- WafSMP
+- Xaero-map-spigot
 
 ## Nations
 - [General](./nations_system.md)
