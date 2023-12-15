@@ -8,7 +8,7 @@ This is the full list of features introduced in season 3 of the Waffles SMP.  If
 - [Other mods](./mod_list.md)
 
 ## Datapacks
-- 
+- [Dusks pack](./dusks_datapack.md)
 
 ## Nations
 - [General](./nations_system.md)
