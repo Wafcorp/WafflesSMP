@@ -9,9 +9,37 @@ This is the full list of features introduced in season 3 of the Waffles SMP.  If
 
 ## Datapacks
 - [Dusks pack](./dusks_datapack.md)
+- bukkit
+- Custom Items WSMP
+- Server rules
+- Afk display
+- Armor statues
+- Fast leaf decay
+- Multiplayer sleep
+- Nether portal coords
+- Player head drops
+- Silence mobs
+- Raw Ore Block Blasting
+- More mob heads
+- CreaftingTweaks
 
 ## Plugins
-- 
+- AdvancedBan
+- CoreProtect
+- DiscordSRV
+- FreedomChat
+- GravityControl
+- GriefPrevention
+- ItemSwapperPlugin
+- LuckPerms
+- OpenInv
+- PersonalPhantoms
+- ProNouns
+- ProtocolLib
+- SuperVanish
+- TabTPS
+- TPTrace
+- VillagerInfo
 
 ## Nations
 - [General](./nations_system.md)
