@@ -20,17 +20,21 @@ This is the full list of features introduced in season 3 of the Waffles SMP.  If
 ## Shopping district
 - 
 
+## 1.21
+- Have a world border until then
+
 ## End resets
-- 
+- End resets every 3 months
+- Keep inner radius of 1500
 
 ## Seed
 - 
 
 ## Map
-- 
+- [Squaremap](https://modrinth.com/plugin/squaremap)
 
 ## WSMP Logo
-- 
+- Have a distinction between season 2 and 3
 
 ## Server Host
 - 
