@@ -6,7 +6,7 @@
 | [Anti Xray](https://modrinth.com/mod/anti-xray<br/>)                          | :heavy_check_mark: | *required* |
 | [Async Locator](https://modrinth.com/mod/async-locator)                       | :heavy_check_mark: | *required* |
 | [Carpet](https://github.com/gnembon/fabric-carpet#fabric-carpet)              | :heavy_check_mark: | *required* |
-| [Chunkumulator](https://modrinth.com/mod/chunkumulator)                       | :heavy_check_mark: | *required* |
+| [Chunkumulator](https://modrinth.com/mod/chunkumulator)                       | :x: | *removed* |
 | [Debugify](https://modrinth.com/mod/debugify)                                 | :heavy_check_mark: | *required* |
 | [Fabric API](https://modrinth.com/mod/fabric-api)                             | :heavy_check_mark: | *required* |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core)                          | :heavy_check_mark: | *required* |
@@ -36,3 +36,24 @@
 | []()                                                                          | :heavy_check_mark: | *required* |
 | []()                                                                          | :heavy_check_mark: | *required* |
 | []()                                                                          | :heavy_check_mark: | *required* |
+
+<details><summary>To Add</summary>
+- https://modrinth.com/mod/vanilla-permissions
+- https://modrinth.com/mod/better-fabric-console
+- https://modrinth.com/mod/sneaky-server
+- https://modrinth.com/mod/mods-command
+- https://modrinth.com/mod/luckperms
+</details>
+
+
+<details><summary>To Vote On</summary>
+- https://modrinth.com/plugin/chunkyborder
+- https://modrinth.com/mod/worldborderfix
+- https://modrinth.com/mod/drogstyle
+- https://modrinth.com/mod/banhammer
+</details>
+
+<details><summary>To Look in To</summary>
+- https://modrinth.com/mod/quality-of-life-qol-fixes
+- https://modrinth.com/mod/embedded_assets
+</details>
