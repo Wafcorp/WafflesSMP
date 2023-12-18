@@ -38,6 +38,7 @@
 | []()                                                                          | :heavy_check_mark: | *required* |
 
 <details><summary>To Add</summary>
+
 - https://modrinth.com/mod/vanilla-permissions
 - https://modrinth.com/mod/better-fabric-console
 - https://modrinth.com/mod/sneaky-server
@@ -47,6 +48,7 @@
 
 
 <details><summary>To Vote On</summary>
+
 - https://modrinth.com/plugin/chunkyborder
 - https://modrinth.com/mod/worldborderfix
 - https://modrinth.com/mod/drogstyle
@@ -54,6 +56,7 @@
 </details>
 
 <details><summary>To Look in To</summary>
+
 - https://modrinth.com/mod/quality-of-life-qol-fixes
 - https://modrinth.com/mod/embedded_assets
 </details>
