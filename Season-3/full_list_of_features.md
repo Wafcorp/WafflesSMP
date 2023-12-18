@@ -23,27 +23,6 @@ This is the full list of features introduced in season 3 of the Waffles SMP.  If
 - More mob heads
 - CreaftingTweaks
 
-## Plugins
-- AdvancedBan
-- CoreProtect
-- DiscordSRV
-- FreedomChat
-- GravityControl
-- GriefPrevention
-- ItemSwapperPlugin
-- LuckPerms
-- OpenInv
-- PersonalPhantoms
-- ProNouns
-- ProtocolLib
-- SuperVanish
-- TabTPS
-- TPTrace
-- VillagerInfo
-- Voicechat
-- Voicechat_interaction
-- WafSMP
-- Xaero-map-spigot
 
 ## Nations
 - [General](./nations_system.md)
