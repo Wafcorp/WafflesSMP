@@ -1,3 +1,7 @@
 - rules mod
-- moderation mod
+- moderation mod (dont know what this was about tbh)
+- waffsmp mod
+  - add a / mods command
+  - custom /datapack command
+  - /feature command for ther custom stuff?
 - nations mod
