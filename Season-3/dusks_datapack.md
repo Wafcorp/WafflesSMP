@@ -17,6 +17,9 @@
 - snowy old growth spruce taiga
 - snowy red beach
 - snowy stony shore
+- snowy windswept forest
+- snowy windswept gravelly hills
+- snowy windswept hills
 - warm forest
 - warm plains
 - warm river
@@ -53,7 +56,5 @@
 - alot of blocks can now be between bookshelves and the enchanting table without blocking enchantment power
 - Root dirt craft
 - amethyst cluster craft
-- soul fire on sculk blocks
-- ender chests in dragon immune
 - cobweb craft (maybe)
 - chain
