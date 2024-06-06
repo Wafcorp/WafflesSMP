@@ -26,6 +26,6 @@
 
 
 ## Wafcorp Role in Government:
-- Consists of the Board (Waf, Ender, Teal, Exi) and the Modstaff
+- Consists of the Board and the Modstaff
 - Wafcorp has a seat on the Council and can propose votes if necessary
 - Wafcorp may overturn any vote or Council decision as a last resort - our goal is to NEVER use this ability, we have not used it so far in the past two seasons
