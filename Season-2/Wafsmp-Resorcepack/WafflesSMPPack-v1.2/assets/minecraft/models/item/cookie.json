@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cookie",
+    "particle": "minecraft:item/cookie"
+ },
+
+  "overrides": [
+      { "predicate": {"custom_model_data": 777000}, "model": "item/cookies/white_chocolate"},
+	  { "predicate": {"custom_model_data": 777001}, "model": "item/cookies/mint_chocolate_chip"},
+	  { "predicate": {"custom_model_data": 777002}, "model": "item/cookies/mnm"},
+	  { "predicate": {"custom_model_data": 777003}, "model": "item/cookies/black_white"},
+	  { "predicate": {"custom_model_data": 777004}, "model": "item/cookies/peanut_butter"},
+	  { "predicate": {"custom_model_data": 777005}, "model": "item/cookies/double_cc"},
+	  { "predicate": {"custom_model_data": 777006}, "model": "item/cookies/red_velvet"}
+  ]
+}
