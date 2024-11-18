@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/cookies/white_chocolate",
-    "particle": "minecraft:item/cookies/white_chocolate"
- }
-}
