@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/golden_carrot",
+    "particle": "minecraft:item/golden_carrot"
+ },
+
+  "overrides": [
+      { "predicate": {"custom_model_data": 777000}, "model": "item/waffles/waffle"}
+  ]
+}
