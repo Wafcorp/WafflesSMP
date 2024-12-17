@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+ },
+
+  "overrides": [
+      { "predicate": {"custom_model_data": 777000}, "model": "item/special/copper_shortsword"}
+  ]
+}
