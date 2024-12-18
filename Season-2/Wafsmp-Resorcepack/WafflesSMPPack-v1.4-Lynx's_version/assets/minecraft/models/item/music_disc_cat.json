@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/template_music_disc",
+  "textures": {
+    "layer0": "minecraft:item/music_disc_cat"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 777000}, "model": "item/music_disc/the_rise_of_spellbound"},
+    { "predicate": {"custom_model_data": 777001}, "model": "item/music_disc/dawn_of_a_gilded_star"},
+    { "predicate": {"custom_model_data": 777002}, "model": "item/music_disc/the_fourth_wall"},
+    { "predicate": {"custom_model_data": 777003}, "model": "item/music_disc/a_journey_to_destiny"},
+    { "predicate": {"custom_model_data": 777004}, "model": "item/music_disc/call_for_the_nations"}
+  ]
+}

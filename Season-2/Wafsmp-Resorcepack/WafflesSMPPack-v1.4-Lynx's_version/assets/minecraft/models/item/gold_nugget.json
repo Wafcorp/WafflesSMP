@@ -6,6 +6,6 @@
  },
  
 	"overrides": [
-		  { "predicate": {"custom_model_data": 525000}, "model": "item/patron_3/waffle_coin"}
+		  { "predicate": {"custom_model_data": 525000}, "model": "item/patreon/waffle_coin"}
 	  ]
 }

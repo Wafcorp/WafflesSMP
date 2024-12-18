@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/special/copper_shortsword"
+    "layer0": "minecraft:item/other/copper_shortsword"
  },
  "display": {
 	"thirdperson_righthand": {

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/patreon/waffle_coin",
+    "particle": "minecraft:item/patreon/waffle_coin"
+ }
+}
