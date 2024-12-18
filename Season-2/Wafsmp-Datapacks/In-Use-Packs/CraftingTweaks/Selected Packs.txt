@@ -1,0 +1,9 @@
+Vanilla Tweaks Crafting Tweaks
+Version: 1.21
+Packs:
+	craftable gravel
+	craftable coral blocks 2x2
+	unpackable ice
+	universal dyeing
+	dropper to dispenser
+	powder to glass
