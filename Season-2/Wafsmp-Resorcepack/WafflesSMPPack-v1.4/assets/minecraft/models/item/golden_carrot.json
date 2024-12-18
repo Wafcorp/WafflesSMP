@@ -6,6 +6,6 @@
  },
 
   "overrides": [
-      { "predicate": {"custom_model_data": 777000}, "model": "item/waffles/waffle"}
+      { "predicate": {"custom_model_data": 777000}, "model": "item/food/waffle"}
   ]
 }

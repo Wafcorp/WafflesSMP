@@ -5,6 +5,6 @@
  },
 
   "overrides": [
-      { "predicate": {"custom_model_data": 777000}, "model": "item/special/copper_shortsword"}
+      { "predicate": {"custom_model_data": 777000}, "model": "item/other/copper_shortsword"}
   ]
 }

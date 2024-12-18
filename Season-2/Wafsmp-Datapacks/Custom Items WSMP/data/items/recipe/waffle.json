@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "#^#"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:wheat"
+      },
+      "^": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "result": {
+      "id": "minecraft:golden_carrot",
+      "components": {
+        "minecraft:custom_name": "{\"text\":\"Waffle\",\"italic\":false}",
+        "minecraft:custom_model_data": 777000,
+        "minecraft:food": {
+          "nutrition": 7,
+          "saturation": 14.400001
+        }
+      }
+    }
+  }

@@ -1,0 +1,39 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+      {
+        "item": "minecraft:oak_sapling"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:potion"
+      }
+    ],
+    "result": {
+      "id": "minecraft:potion",
+      "components": {
+        "minecraft:custom_name": "{\"text\":\"Maple Syrup\",\"italic\":false}",
+        "minecraft:custom_model_data": 777000,
+        "minecraft:potion_contents": {
+          "custom_color": 5056547,
+          "custom_effects": [
+            {
+              "id": "minecraft:slowness",
+              "amplifier": 1,
+              "duration": 100,
+              "show_particles": false
+            },
+            {
+              "id": "minecraft:regeneration",
+              "amplifier": 1,
+              "duration": 100,
+              "show_particles": false
+            }
+          ]
+        }
+      }
+    }
+  }
